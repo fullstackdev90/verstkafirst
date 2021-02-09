@@ -1,0 +1,3 @@
+#настр сервера апач
+#Options -Indexes FollowSymLinks
+DirectoryIndex index.html
